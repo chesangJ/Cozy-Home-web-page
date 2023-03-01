@@ -1,0 +1,164 @@
+.first { 
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./Images/dream.jpg);
+    
+    height: 700px;
+    width: 200%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+   color: #ffe5d6;
+    
+
+}
+body,html{
+    height: 70%;
+    margin: 0;
+    width: 70%;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li{
+    display: inline;
+    justify-content: space-between;
+    
+}
+a{
+    display: inline-block;
+    padding: 8px;
+    color: #ffe5d6;
+}
+.home{
+    color: #ffac7d;
+}
+button{
+    color: black;
+    background-color: #ffac7d;
+}
+.content{
+    text-align: center;
+    margin-top: 10%;
+}
+.img1{
+    width: 250%;
+    height: 20%;
+}
+.img2{
+    width: 60;
+    height: 20%;
+}
+.img3{
+    width: 120%;
+    height: 20%; 
+}
+li{
+    display: block;
+    padding: 5px;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+.button2{
+    color: black;
+    background-color: #ffac7d;
+    text-align: center;
+}
+.second{
+    width: 200%;
+    height: 100%;
+    background-color: white;
+    
+    
+    
+}
+.Third{
+    background-color: #002d3d;
+    background-size: 100%;
+    width: 200%;
+    height: 100%;
+    
+}
+.img4{
+    height: 50%;
+    width: 50%;
+}
+.img5{
+    height: 50%;
+    width: 50%;
+}
+.img6{
+    height: 50%;
+    width: 50%;
+}
+.text{
+    color: #ffe5d6;
+    text-align: center;
+    
+}
+
+.img7{
+    width: 400px;
+    height: 300px;
+    margin-right: 70%;
+    margin-top: 5%;
+}
+
+.circle{
+    background-color: peachpuff;
+    border-radius: 50%;
+    padding: 30px;
+    width: 300px;
+    height: 300px;
+    margin-left: 10%;
+     
+    
+}
+.back{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.fourth {
+    background-color: #ffe5d6;
+    
+    width: 200%;
+    height: 130%;
+}
+
+
+
+.Fifth{
+    text-align: center;
+    margin-left: 70%;
+    width: 50%;
+}
+.Sixth{
+    display: flex;
+    padding-right: 50%;
+    gap: 50px;
+    background-color: #002d3d;
+    width: 150%;
+    height: 100%;
+    color: #ffffff;
+    text-align: center;
+}
+.images2{
+    margin-right: 3%;
+    margin-left: 20%;
+}
+.mordern{
+    background-color: #ffac7d;
+    color: black;
+}
+
+
+
+
